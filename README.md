@@ -7,6 +7,7 @@
 <h4> tecnologias: </h4>
 
 + ReactJs
++ Typescript
 + React-Modal
 + Web-vitals
 + Styled-components
